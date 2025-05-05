@@ -13,7 +13,7 @@ The notebook covers:
 
 ## Author
 
-Your Name
+Kaan Kaya
 
 ## Created for
 
